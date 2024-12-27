@@ -36,7 +36,7 @@ Be sure to familiarize yourself with these resources as they will help you maxim
 ## ⚡ How to Get Started
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-org-name/your-repo-name.git
+   git clone https://github.com/Raion-Community/FPS-Engine.git
    ```
 2. Open the Unity project using **Unity Hub**.
 3. Install any pending dependencies (you may be prompted to fulfill asset requirements like the Aurora FPS Engine).
